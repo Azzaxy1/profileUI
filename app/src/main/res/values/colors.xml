@@ -5,4 +5,5 @@
     <color name="colorStart">#091057</color>
     <color name="colorEnd">#006BFF</color>
     <color name="text">#243642</color>
+    <color name="statusBar">#C6E7FF</color>
 </resources>
